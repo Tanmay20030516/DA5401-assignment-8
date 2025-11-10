@@ -9,9 +9,14 @@
 
 ```
 DA5401-assignment-8/
+├── dataset/                                # Dataset ddirectory
+|   ├── day.csv
+|   ├── hour.csv
+|   └── Readme.txt
+├── .gitignore                              # Files/directories ignored during commits
 ├── da25m030-assignment-8-solution.ipynb    # Main Jupyter Notebook
 ├── requirements.txt                        # Project requirements
-├── yeast.csv                               # Preprocessed dataset
+├── DA5401-A8-ensemble-learning.pdf         # Assignment problem statement
 └── README.md                               # Project documentation
 ```
 
